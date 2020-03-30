@@ -1,0 +1,8 @@
+{
+  "type": "Autoencoder_SE",
+  "embedding_size": 128,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "reverse": true,
+  "dict_size": 16384
+}

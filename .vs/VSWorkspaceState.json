@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\demo",
+    "\\demo\\pretrained",
+    "\\prep",
+    "\\preprocessing",
+    "\\prep\\annotation",
+    "\\util"
+  ],
+  "SelectedNode": "\\demo\\pretrained\\agct_dataset.txt",
+  "PreviewInSolutionExplorer": false
+}
